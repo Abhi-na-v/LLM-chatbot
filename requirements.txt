@@ -1,0 +1,9 @@
+accelerate
+bitsandbytes
+faiss-cpu
+gradio==4.24.0
+pandas
+scikit-learn
+sentence-transformers
+torch
+transformers
