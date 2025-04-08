@@ -37,20 +37,20 @@ pip install -r requirements.txt
 
 Follow these steps to set up and run the chatbot locally:
 
-# 1. Clone the repository
+ 1. Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-# 2. Install the required dependencies
+ 2. Install the required dependencies
 pip install -r requirements.txt
 
-# 3. Run the application
+ 3. Run the application
 python app.py
 
-# 4. Ensure the following files are present in the project directory:
-#    - query_embeddings.npy
-#    - response_embeddings.npy
-#    - faiss_index.idx
-#    - cleaned_chatbot_data.csv
+ 4. Ensure the following files are present in the project directory:
+    - query_embeddings.npy
+    - response_embeddings.npy
+    - faiss_index.idx
+    - cleaned_chatbot_data.csv
 
 
